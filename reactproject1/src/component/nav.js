@@ -7,7 +7,7 @@ class Nav extends React.Component {
 	    <div className="nav">
       		<div className="nav-links">
 				<ul>
-				<li><NavLink to="/">Hem</NavLink></li>
+				<li><NavLink to="">Hem</NavLink></li>
 				<li><NavLink to="/produkter">Produkter</NavLink></li>
 				<li> <NavLink to="#">Favoriter</NavLink></li>
 				</ul>

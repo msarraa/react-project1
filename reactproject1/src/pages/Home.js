@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import ResponsiveSymbol from '../component/ResponsiveSymbol';
 
 class Home extends React.Component {
@@ -7,7 +7,7 @@ class Home extends React.Component {
       <section class="about-us">
         <div class="row">
           <div className="about-col">
-            <img src="images/person.png" alt="Personen bakom websidan." />
+            <img src="person.png" alt="Personen bakom websidan." />
           </div>
           <div className="about-col">
             <h3>Varmt Välkommen hit! <br/>För dig som föredrar annorlunda</h3>

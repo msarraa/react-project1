@@ -15,7 +15,7 @@ class Footer extends React.Component {
 	<ul>
 
 		<li> <NavLink to="/help">Hjälp</NavLink></li> 
-		<li> <NavLink to="/#">Vilkor</NavLink></li>
+		<li> <NavLink to="">Vilkor</NavLink></li>
 		<li> <NavLink to="/kontakt">Kontakt</NavLink></li>
 		<li> <NavLink to="/#">Betalsätt</NavLink></li>
 		<li> <NavLink to="/#">Leverans</NavLink></li>
